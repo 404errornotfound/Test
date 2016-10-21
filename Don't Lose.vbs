@@ -1,6 +1,3 @@
-Imports
-System
-Public Class Nope
 Dim 0 As String = "You go right"
 Dim 1 As String = "You go left"
 Dim 2 As String = "You fell off the face of the earth"
